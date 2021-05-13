@@ -5,5 +5,5 @@ I used a online course for getting all the images and other things needed for th
 <br/>
 <br/>
 <div align='center'>
-<img style="border:1px black solid;" height=1000px width=1000px src="https://github.com/guptabhaskar/Crossy-RPG-Game/blob/master/Track.gif">
+<img style="border:1px black solid;" height=1000px width=1000px src="https://github.com/guptabhaskar/Crossy-RPG-Game/blob/master/RPG.png">
 </div>
